@@ -1,0 +1,16 @@
+.time__container{
+    text-align: center;
+    padding: 32px;
+}
+.time__container h3{
+    font-family: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px ;
+}
+.time__container .colaboradores{
+    display: flex;
+    justify-content: space-around;
+    margin: 32px 0;
+    flex-wrap: wrap;
+}
